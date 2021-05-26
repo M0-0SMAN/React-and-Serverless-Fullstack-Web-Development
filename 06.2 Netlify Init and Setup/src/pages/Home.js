@@ -1,4 +1,4 @@
-import React from 'react';
+git import React from 'react';
 import { Accent } from '../styled/Random';
 import { CTA } from '../styled/CTA';
 import { StyledTitle } from '../styled/Random';
@@ -7,7 +7,7 @@ export default function Home() {
         <div>
             <StyledTitle>Ready to type?</StyledTitle>
             <CTA to="/game">
-                Click or Type '<Accent>s</Accent>' to start playing
+                Click or Type '<Accent>V</Accent>' to start playing
             </CTA>
         </div>
     );
