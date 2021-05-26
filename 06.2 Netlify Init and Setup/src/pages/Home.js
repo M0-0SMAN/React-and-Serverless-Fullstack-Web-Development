@@ -1,4 +1,4 @@
-git import React from 'react';
+import React from 'react';
 import { Accent } from '../styled/Random';
 import { CTA } from '../styled/CTA';
 import { StyledTitle } from '../styled/Random';
