@@ -1,8 +1,4 @@
-[build]
-    base = "//10.1 Styling and Cleanup/"
-  publish = "build"
-  command = "npm run build"
-  functions = "functions"
+
 
 [dev]
     framework = "#custom"
