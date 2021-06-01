@@ -1,6 +1,11 @@
-
+[build]
+  publish = "/build"
+  command = "npm run build"
+  functions = "functions"
 
 [dev]
     framework = "#custom"
     command = "npm run start"
     targetPort = 3000
+
+    
